@@ -1,2 +1,4 @@
-package ads.org.ebankingbackend.entities;public class BankAccount {
+package ads.org.ebankingbackend.entities;
+
+public class BankAccount {
 }

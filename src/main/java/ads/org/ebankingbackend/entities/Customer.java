@@ -1,2 +1,4 @@
-package ads.org.ebankingbackend.entities;public class Customer {
+package ads.org.ebankingbackend.entities;
+
+public class Customer {
 }
